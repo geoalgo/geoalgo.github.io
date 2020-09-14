@@ -15,7 +15,7 @@ We release the [code](https://github.com/geoalgo/A-Quantile-based-Approach-for-H
 ```
 
 
-![image-title-here](/images/y_plot.png){:class="img-responsive"}
+![](images/y_plot.png){:class="img-responsive"}
 
 
 
