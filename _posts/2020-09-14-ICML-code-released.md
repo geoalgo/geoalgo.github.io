@@ -15,12 +15,7 @@ We release the [code](https://github.com/geoalgo/A-Quantile-based-Approach-for-H
 ```
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
-
 ![_config.yml]({{ site.baseurl }}/images/y_plot.png)
-
 
 
 
