@@ -9,7 +9,7 @@ name: David Salinas
 description: Senior Machine Learning Scientist at Amazon
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/lucky-cat.png
+avatar: https://raw.githubusercontent.com/geoalgo/geoalgo.github.io/master/images/lucky-cat.png
 
 #
 # Flags below are optional
