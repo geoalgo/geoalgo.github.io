@@ -14,7 +14,17 @@ We release the [code](https://github.com/geoalgo/A-Quantile-based-Approach-for-H
 ```python experiments/figure_illustration.py
 ```
 
-![_config.yml]({{ site.baseurl }}/images/y_plot.png){:class="img-responsive"}
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
+
+![_config.yml]({{ site.baseurl }}/images/y_plot.png)
+
+
+
+
+
 
 
 Feel free to contact me if you have any question regarding the code.
