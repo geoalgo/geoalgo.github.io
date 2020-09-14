@@ -7,7 +7,7 @@ title: Code for "A Quantile-based Approach for Hyperparameter Transfer Learning"
 </script>
 
 
-We release the [code](https://github.com/geoalgo/A-Quantile-based-Approach-for-Hyperparameter-Transfer-Learning/) to reproduce results from our paper ["A Quantile-based Approach for Hyperparameter Transfer Learning"](https://icml.cc/virtual/2020/poster/6483) published at ICML 2020.  
+We released the [code](https://github.com/geoalgo/A-Quantile-based-Approach-for-Hyperparameter-Transfer-Learning/) to reproduce results from our paper ["A Quantile-based Approach for Hyperparameter Transfer Learning"](https://icml.cc/virtual/2020/poster/6483) published at ICML 2020.  
 
 
 
