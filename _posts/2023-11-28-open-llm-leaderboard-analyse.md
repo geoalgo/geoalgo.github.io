@@ -12,7 +12,7 @@ You may have seen `Yi-34B` model leading the [Open-llm leaderboard](https://hugg
 
 Currently, LLMs have taken the world by storm and are all over. One critical aspect is *evaluation*, how do we make sure that model A is better than model B?
 
-As you may guess, there are currently many available benchmarks for LLMs. Some benchmarks focus on general abilities of LLMs such as [HELM](https://crfm.stanford.edu/helm/latest/#/leaderboard), on chat-bot LLMs with [Chatbot Arena](https://lmsys.org/blog/2023-05-03-arena/) or on code LLMs with [Human-eval](https://github.com/openai/human-eval). For the first general category, Eleuther-AI compiled a large collection of benchmarks in [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness). Some of those benchmarks are evaluated in HuggingFace [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
+As you may guess, there are currently many available benchmarks for LLMs. Some benchmarks focus on general abilities of LLMs such as [HELM](https://crfm.stanford.edu/helm/latest/#/leaderboard) other focus on chat-bot LLMs with [Chatbot Arena](https://lmsys.org/blog/2023-05-03-arena/) or on code LLMs with [Human-eval](https://github.com/openai/human-eval). For the first general category, Eleuther-AI compiled a large collection of benchmarks in [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness). Some of those benchmarks are evaluated in HuggingFace [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
 
 In particular, Open LLM Leaderboard allows to schedule evaluation “for free” for researchers which is a pretty cool feature! Underneath, it uses [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) from Eleuther-AI. While it gives indication on how this is done (see `about` tab in the Open LLM leaderboard page), the exact scripts are not public [yet](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/discussions/367) although it may change at some point.
 
@@ -64,7 +64,7 @@ Interestingly, many of the models that are on the Pareto Front uses 4 or 8 bit p
 If we report the configurations on the Pareto front, we do not get a single best solution but a **list** of configurations which are optimal. Let us take a look at this new leaderboard:
 
 
-| model_name                                |   Average error |   model_size_GB |
+| Model                                |   Average error |   Size (GB) |
 |:------------------------------------------|----------------:|----------------:|
 | tigerbot-70b-chat-v2                      |            0.22 |          129.43 |
 | FashionGPT-70B-V1.2                       |            0.26 |          128.64 |
