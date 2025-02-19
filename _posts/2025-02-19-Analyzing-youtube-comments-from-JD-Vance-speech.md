@@ -4,7 +4,7 @@ title: Analyzing Youtube comments of JD-Vance Munich speech
 ---
 
 I watched the speech of JD-Vance on this [Youtube video](https://www.youtube.com/watch?v=VOc44fVvneI&list=WL&index=5) to the Munich Security Conference shared by Forbes. Here were the top comments shown on Youtube:
-![alt text](images/Screenshot-2025-02-17.png "Title")
+![_config.yml](/images/Screenshot-2025-02-17.png "Title")
 
 They all appear to be biased toward JD Vance. A notable pattern appears in the comments section: numerous responses began with phrases like "As a European," "From the UK," "As a South African," and "From France." The repetitive nature of these geographical identifiers across different commentators raised questions about their authenticity.
 
