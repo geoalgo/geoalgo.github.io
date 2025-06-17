@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AutoML summer school
+title: AutoML summer school - 2025 Tübingen
 ---
 
 I gave a lecture on the challenges of LLM evaluations at the [AutoML School 2025](https://www.automlschool.org/schedule/talk-abstracts).

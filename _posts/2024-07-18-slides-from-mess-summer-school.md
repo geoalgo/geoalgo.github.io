@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MESS summer school
+title: MESS summer school - 2024 Catania
 ---
 
 I gave the following two lectures at the 3rd international Metaheuristics Summer School – [MESS 2024](https://www.ants-lab.it/mess2024/):
