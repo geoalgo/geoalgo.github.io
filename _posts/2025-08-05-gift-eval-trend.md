@@ -9,8 +9,7 @@ For the amount of datasets, different papers have different standard. For instan
 
 In this sense, GiftEval from Taha İbrahim Aksu et al and Salesforce is a great contribution. It is not perfect (it could have more datasets perhaps) but is a great start! (and following the steps of previous work like Monash or AutoGluon who collected larger collection of datasets). I was curious to see the progress over time, you can see it in this plot:
 
-![_config.yml](/images/performance-over_time.png "Title")
-
+![_config.yml](/images/performance_over_time.png "Title")
 
 It is very much alive with many entries from different institutions. Lots of methods popping up as everyone is racing on improving this shared leaderboard 🏎️. For MASE, the average improvement year over year is -0.07 which is cool (we just need to wait 71 years to get a negative MASE 🙃).
 
