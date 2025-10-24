@@ -15,4 +15,4 @@ It is very much alive with many entries from different institutions. Lots of met
 
 PS: I pushed the notebook in case you want to take a look [here](https://github.com/geoalgo/gift-eval-trend-over-time/blob/main/gift-eval-analysis.ipynb). I used LLMs to pull most dates from arxiv (I just checked that they looked roughly correct, feel free to open issue if you spot a mistake!).
 
-PS2: If you are working on tabular evaluations, take a look at [TabArena]( https://tabarena.ai/) - a shameless plug - but I do hope this living benchmark plays a big role to improve comparisons of tabular methods.
+PS2: If you are working on tabular evaluations, take a look at [TabArena](https://huggingface.co/spaces/TabArena/leaderboard) - a shameless plug - but I do hope this living benchmark plays a big role to improve comparisons of tabular methods.
