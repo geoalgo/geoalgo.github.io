@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AutoML summer school - 2025 Tübingen
+title: Oxford Machine Learning School - 2025 Oxford
 ---
 
 I gave a lecture at the [Oxford Machine Learning School - MLx Representation Learning & Generative AI 2025](https://www.oxfordml.school/2025) in August at Oxford.
